@@ -1,0 +1,6 @@
+{
+  "name": "Violetta - Modern E-Commerce",
+  "description": "A modern, premium, fully responsive e-commerce experience with Violet & White brand identity, flash sales, personalized recommendations, and streamlined one-page checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
